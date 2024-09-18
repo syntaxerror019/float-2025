@@ -34,7 +34,7 @@ Here is a photo of JENA being taken apart for maintenance and repair. This image
 
 This image captures JENA on the ground, giving a detailed view of its structure and design elements before it is deployed.
 
-![Float Sitting on the Ground](https://photos.google.com/share/AF1QipOcCGUWoM8xpeUHwn7Xc7RH4HfdRj8Utz2jZ6u-aG-YBZkXNtYBbI4db_TE4RfvWA/photo/AF1QipNGSZIbSu6ZpvSSuHmpCFRoPZxCAQnD-XwMQC7z?key=Q19IVWotcGVxZ21rMTFIbXNmaHFUcXZjUWI3T0h3)
+![Float Sitting on the Ground](https://lh3.googleusercontent.com/pw/AP1GczO2aSPyMnZQvksXSxxHzrX6QodIQjemc3vIq6iQBGH-BfrFSiGXOwoPDbkAjlLZ5qCxMyr-sck1SEEpsTug7ZJNJZuhVTVSf292DepEetVfAip7KuzcLYGGE6yDYzPRxiMw_sMirlJGM1eR1FlXho2tWQ=w569-h1012-s-no-gm?authuser=0)
 
 ## Features
 
